@@ -118,6 +118,7 @@ This section will include your analysis findings:
 
 Possible extensions to this project:
 - Dashboard Integration: Using Power BI or Tableau for interactive visualization.
+- Tableau dashboard link: https://public.tableau.com/app/profile/suyash.bibave/viz/WalmartDataAnalysis_17443919762410/WalmartSalesAnalysis
 - Additional Data Sources: Enhancing analysis depth with external data.
 - Automation of the data pipeline for real-time data ingestion and analysis.
 
